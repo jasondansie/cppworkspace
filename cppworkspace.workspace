@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppworkspace" Database="" Version="10000">
+  <Project Name="firstProgramChallenge" Path="project1/project1.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="areaOfRoom" Path="areaOfRoom/areaOfRoom.project" Active="No"/>
+  <Project Name="cleaningService" Path="cleaningService/cleaningService.project" Active="No"/>
+  <Project Name="section7ChallengeVectors" Path="section7Challenge/section7Challenge.project" Active="No"/>
+  <Project Name="cppworkspace" Path="cppworkspace/cppworkspace.project" Active="No"/>
+  <Project Name="cstrings" Path="cstrings/cstrings.project" Active="No"/>
+  <Project Name="cppStringChallenge1" Path="cppStringChallenge1/cppStringChallenge1.project" Active="No"/>
+  <Project Name="cppStringChallenge2" Path="cppStringChallenge2/cppStringChallenge2.project" Active="No"/>
+  <Project Name="cppCipherChallenge" Path="cppCipherChallenge/cppCipherChallenge.project" Active="No"/>
+  <Project Name="pos_challenge" Path="pos_challenge/pos_challenge.project" Active="No"/>
+  <Project Name="functionsAndPrototypes" Path="functionsAndPrototypes/functionsAndPrototypes.project" Active="No"/>
+  <Project Name="cppDefaultArguments" Path="cppDefaultArguments/cppDefaultArguments.project" Active="No"/>
+  <Project Name="cppOverloadingFunctions" Path="cppOverloadingFunctions/cppOverloadingFunctions.project" Active="No"/>
+  <Project Name="cppOverloadedFunctions" Path="cppOverloadedFunctions/cppOverloadedFunctions.project" Active="No"/>
+  <Project Name="cppFunctionsAndArrays" Path="cppFunctionsAndArrays/cppFunctionsAndArrays.project" Active="No"/>
+  <Project Name="cppPassByReference" Path="cppPassByReference/cppPassByReference.project" Active="No"/>
+  <Project Name="cppFibonacci" Path="cppFibonacci/cppFibonacci.project" Active="No"/>
+  <Project Name="cppFactorial" Path="cppFactorial/cppFactorial.project" Active="No"/>
+  <Project Name="cppPennyDoubldEveryDay" Path="cppSection11Challenge/cppSection11Challenge.project" Active="Yes"/>
+  <Project Name="cppSection11Chanllenge" Path="cppSection11Chanllenge/cppSection11Chanllenge.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="firstProgramChallenge" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="areaOfRoom" ConfigName="Debug"/>
+      <Project Name="cleaningService" ConfigName="Debug"/>
+      <Project Name="section7ChallengeVectors" ConfigName="Debug"/>
+      <Project Name="cppworkspace" ConfigName="Debug"/>
+      <Project Name="cstrings" ConfigName="Debug"/>
+      <Project Name="cppStringChallenge1" ConfigName="Debug"/>
+      <Project Name="cppStringChallenge2" ConfigName="Debug"/>
+      <Project Name="cppCipherChallenge" ConfigName="Debug"/>
+      <Project Name="pos_challenge" ConfigName="Debug"/>
+      <Project Name="functionsAndPrototypes" ConfigName="Debug"/>
+      <Project Name="cppDefaultArguments" ConfigName="Debug"/>
+      <Project Name="cppOverloadingFunctions" ConfigName="Debug"/>
+      <Project Name="cppOverloadedFunctions" ConfigName="Debug"/>
+      <Project Name="cppFunctionsAndArrays" ConfigName="Debug"/>
+      <Project Name="cppPassByReference" ConfigName="Debug"/>
+      <Project Name="cppFibonacci" ConfigName="Debug"/>
+      <Project Name="cppFactorial" ConfigName="Debug"/>
+      <Project Name="cppPennyDoubldEveryDay" ConfigName="Debug"/>
+      <Project Name="cppSection11Chanllenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="firstProgramChallenge" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="areaOfRoom" ConfigName="Release"/>
+      <Project Name="cleaningService" ConfigName="Release"/>
+      <Project Name="section7ChallengeVectors" ConfigName="Release"/>
+      <Project Name="cppworkspace" ConfigName="Release"/>
+      <Project Name="cstrings" ConfigName="Release"/>
+      <Project Name="cppStringChallenge1" ConfigName="Release"/>
+      <Project Name="cppStringChallenge2" ConfigName="Release"/>
+      <Project Name="cppCipherChallenge" ConfigName="Release"/>
+      <Project Name="pos_challenge" ConfigName="Release"/>
+      <Project Name="functionsAndPrototypes" ConfigName="Release"/>
+      <Project Name="cppDefaultArguments" ConfigName="Release"/>
+      <Project Name="cppOverloadingFunctions" ConfigName="Release"/>
+      <Project Name="cppOverloadedFunctions" ConfigName="Release"/>
+      <Project Name="cppFunctionsAndArrays" ConfigName="Release"/>
+      <Project Name="cppPassByReference" ConfigName="Release"/>
+      <Project Name="cppFibonacci" ConfigName="Release"/>
+      <Project Name="cppFactorial" ConfigName="Release"/>
+      <Project Name="cppPennyDoubldEveryDay" ConfigName="Release"/>
+      <Project Name="cppSection11Chanllenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
