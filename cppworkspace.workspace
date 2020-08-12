@@ -19,8 +19,10 @@
   <Project Name="cppPassByReference" Path="cppPassByReference/cppPassByReference.project" Active="No"/>
   <Project Name="cppFibonacci" Path="cppFibonacci/cppFibonacci.project" Active="No"/>
   <Project Name="cppFactorial" Path="cppFactorial/cppFactorial.project" Active="No"/>
-  <Project Name="cppPennyDoubldEveryDay" Path="cppSection11Challenge/cppSection11Challenge.project" Active="Yes"/>
-  <Project Name="cppSection11Chanllenge" Path="cppSection11Chanllenge/cppSection11Chanllenge.project"/>
+  <Project Name="cppPennyDoubldEveryDay" Path="cppSection11Challenge/cppSection11Challenge.project" Active="No"/>
+  <Project Name="cppSection11Chanllenge" Path="cppSection11Chanllenge/cppSection11Chanllenge.project" Active="No"/>
+  <Project Name="cppSwitch" Path="cppSwitch/cppSwitch.project" Active="No"/>
+  <Project Name="cppForLoop" Path="cppForLoop/cppForLoop.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -45,6 +47,8 @@
       <Project Name="cppFactorial" ConfigName="Debug"/>
       <Project Name="cppPennyDoubldEveryDay" ConfigName="Debug"/>
       <Project Name="cppSection11Chanllenge" ConfigName="Debug"/>
+      <Project Name="cppSwitch" ConfigName="Debug"/>
+      <Project Name="cppForLoop" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -69,6 +73,8 @@
       <Project Name="cppFactorial" ConfigName="Release"/>
       <Project Name="cppPennyDoubldEveryDay" ConfigName="Release"/>
       <Project Name="cppSection11Chanllenge" ConfigName="Release"/>
+      <Project Name="cppSwitch" ConfigName="Release"/>
+      <Project Name="cppForLoop" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

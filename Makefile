@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ cppSection11Challenge - Debug ]----------"
-	@cd "cppSection11Challenge" && "$(MAKE)" -f  "cppSection11Challenge.mk"
+	@echo "----------Building project:[ cppForLoop - Debug ]----------"
+	@cd "cppForLoop" && "$(MAKE)" -f  "cppForLoop.mk"
 clean:
-	@echo "----------Cleaning project:[ cppSection11Challenge - Debug ]----------"
-	@cd "cppSection11Challenge" && "$(MAKE)" -f  "cppSection11Challenge.mk" clean
+	@echo "----------Cleaning project:[ cppForLoop - Debug ]----------"
+	@cd "cppForLoop" && "$(MAKE)" -f  "cppForLoop.mk" clean
